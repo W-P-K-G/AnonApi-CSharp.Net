@@ -6,6 +6,8 @@ Installation:
 
 Usage:
 
+using AnonApi_CSharp.Net; 
+
 AnonApi anonApi = new AnonApi();
 
 anonApi.sendFile(@"filepath");
