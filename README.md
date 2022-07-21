@@ -7,4 +7,5 @@ Installation:
 Usage:
 
 AnonApi anonApi = new AnonApi();
-anonApi.sendFile(@"filepath")
+
+anonApi.sendFile(@"filepath");
